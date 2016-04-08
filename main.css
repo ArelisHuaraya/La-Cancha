@@ -1,0 +1,70 @@
+/* Inserta tu CSS aqui */
+.contenedor{
+	height: 600px;
+	width: 1200px;
+	background-color: #088A29;
+	padding: 15px;
+	
+
+}
+.caja{
+	height: 580px;
+	width: 1180px;
+	border: 1px solid white;
+	display: inline-block;
+	margin: 15px;
+	position: relative;
+	top:-5px;
+	right: 5px;
+
+
+}
+.arcouno{
+	height: 200px;
+	width: 120px;
+	border: 1px solid white;
+	position: relative;
+	top: 160px;
+
+
+}
+.arcodos{
+	height: 200px;
+	width: 120px;
+	border: 1px solid white;
+	float: right;
+	position: relative;
+	top: -40px;
+
+	
+
+
+}
+.centro{
+	height: 200px; 
+	width: 200px;
+	border-radius: 100%; 
+	border: 1px solid white;
+	position: absolute;
+	right: 500px;
+	top: 190px;
+	
+
+
+}
+#uno{
+	position: relative;
+	top: 195px;
+	left: 110px;
+}
+#dos{
+	position: relative;
+	top: 110px;
+	left: 560px;
+}
+#tres{
+	position: relative;
+	top: 360px;
+	left: 970px;
+
+}
